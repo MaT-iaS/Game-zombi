@@ -1,0 +1,281 @@
+# depslib dependency file v1.0
+1407734871 source:c:\users\naty\code blocks\game shooter\main.cpp
+	<SDL.h>
+	<CSprite.h>
+	"constantes.h"
+	"jugador.h"
+	"zombi.h"
+	"disparo.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_platform.h
+
+1326110994 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\begin_code.h
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\close_code.h
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_keysym.h
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\naty\desktop\mts\portables\codeblocks [portable]\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1407410817 source:c:\users\naty\code blocks\game shooter\src\miclass.cpp
+	"miclass.h"
+
+1407410817 c:\users\naty\code blocks\game shooter\miclass.h
+
+1407412205 c:\users\naty\code blocks\game shooter\file.cpp
+	"file.h"
+
+1407412706 source:c:\users\naty\code blocks\game shooter\file.cpp
+	"file.h"
+
+1407412284 c:\users\naty\code blocks\game shooter\file.h
+
+1407623793 c:\users\naty\code blocks\game shooter\jugador.h
+	"spriteanimado.h"
+	"jugador.h"
+	"constantes.h"
+	<SDL.h>
+
+1407734098 source:c:\users\naty\code blocks\game shooter\jugador.cpp
+	"spriteanimado.h"
+	"jugador.h"
+	"constantes.h"
+	<SDL.h>
+
+1407725812 c:\users\naty\code blocks\game shooter\constantes.h
+
+1407461031 source:c:\users\naty\code blocks\game shooter\computer.cpp
+	"computer.h"
+	<CSprite.h>
+	"constantes.h"
+
+1407516590 c:\users\naty\code blocks\game shooter\computer.h
+
+1407729829 source:c:\users\naty\code blocks\game shooter\disparo.cpp
+	"disparo.h"
+	"constantes.h"
+	"jugador.h"
+	"spriteanimado.h"
+	<SDL.h>
+
+1407729829 c:\users\naty\code blocks\game shooter\disparo.h
+	"constantes.h"
+	"spriteanimado.h"
+	"jugador.h"
+	<SDL.h>
+
+1407634758 source:c:\users\naty\code blocks\game shooter\enemigo.cpp
+	"enemigo.h"
+	<SDL.h>
+	"constantes.h"
+	"spriteanimado.h"
+
+1407634758 c:\users\naty\code blocks\game shooter\enemigo.h
+	"spriteanimado.h"
+	<SDL.h>
+
+1407734683 source:c:\users\naty\code blocks\game shooter\spriteanimado.cpp
+	"spriteanimado.h"
+	<SDL.h>
+
+1407622539 c:\users\naty\code blocks\game shooter\sprite_animado.h
+	<SDL.h>
+
+1407621918 source:c:\users\naty\code blocks\game shooter\sprite_animado.cpp
+	"sprite_animado.h"
+
+1407733702 c:\users\naty\code blocks\game shooter\spriteanimado.h
+	<SDL.h>
+
+1407733721 source:c:\users\naty\code blocks\game shooter\zombi.cpp
+	"zombi.h"
+	<SDL.h>
+	"constantes.h"
+	"spriteanimado.h"
+	"jugador.h"
+
+1407730477 c:\users\naty\code blocks\game shooter\zombi.h
+	"spriteanimado.h"
+	"jugador.h"
+	<SDL.h>
+
